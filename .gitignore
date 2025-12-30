@@ -1,0 +1,9 @@
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+MemoryCaptures/
+UserSettings/
+*.unitypackage
+.DS_Store
