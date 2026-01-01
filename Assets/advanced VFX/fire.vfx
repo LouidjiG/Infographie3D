@@ -1189,7 +1189,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614553}
   m_ExposedName: SpawnRate2
   m_Exposed: 1
-  m_Order: 1
+  m_Order: 0
   m_Category: 
   m_Min:
     m_Type:

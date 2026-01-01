@@ -765,6 +765,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: trumpet1
       objectReference: {fileID: 0}
+    - target: {fileID: 2873851377512211685, guid: a735ba8669132498b9fb5e4647900415, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 524547b88d1134bb7b5f10e67df733c3, type: 2}
+    - target: {fileID: 2873851377512211685, guid: a735ba8669132498b9fb5e4647900415, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: cd2a9e44543d2442ebe07fca604558ca, type: 2}
     - target: {fileID: 7335753337411519186, guid: a735ba8669132498b9fb5e4647900415, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.23
