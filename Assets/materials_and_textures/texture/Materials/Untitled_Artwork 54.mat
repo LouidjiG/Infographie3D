@@ -23,7 +23,7 @@ Material:
   disabledShaderPasses:
   - MOTIONVECTORS
   - GRABPASS
-  m_LockedProperties: 
+  m_LockedProperties: _Cutoff
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
