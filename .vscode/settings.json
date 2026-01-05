@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Infographie3D.sln"
+    "dotnet.defaultSolution": "Environement test Ingfographie3D.sln"
 }

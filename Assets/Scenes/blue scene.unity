@@ -1015,6 +1015,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1157265269692021284, guid: 1977aa85dff944923830d2d7ec6fdbf4, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7d2a75312330345c1896d4910a8062ac, type: 2}
     - target: {fileID: 3381036667204574181, guid: 1977aa85dff944923830d2d7ec6fdbf4, type: 3}
       propertyPath: m_Name
       value: trumpet1 (1)
@@ -1200,6 +1204,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1157265269692021284, guid: 1977aa85dff944923830d2d7ec6fdbf4, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7d2a75312330345c1896d4910a8062ac, type: 2}
     - target: {fileID: 3381036667204574181, guid: 1977aa85dff944923830d2d7ec6fdbf4, type: 3}
       propertyPath: m_Name
       value: trumpet1 (4)
@@ -1731,6 +1739,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1157265269692021284, guid: 1977aa85dff944923830d2d7ec6fdbf4, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7d2a75312330345c1896d4910a8062ac, type: 2}
     - target: {fileID: 3381036667204574181, guid: 1977aa85dff944923830d2d7ec6fdbf4, type: 3}
       propertyPath: m_Name
       value: trumpet1 (3)
@@ -1792,6 +1804,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1157265269692021284, guid: 1977aa85dff944923830d2d7ec6fdbf4, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7d2a75312330345c1896d4910a8062ac, type: 2}
     - target: {fileID: 3381036667204574181, guid: 1977aa85dff944923830d2d7ec6fdbf4, type: 3}
       propertyPath: m_Name
       value: trumpet1 (2)
@@ -2875,6 +2891,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1157265269692021284, guid: 1977aa85dff944923830d2d7ec6fdbf4, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 7d2a75312330345c1896d4910a8062ac, type: 2}
     - target: {fileID: 3381036667204574181, guid: 1977aa85dff944923830d2d7ec6fdbf4, type: 3}
       propertyPath: m_Name
       value: trumpet1
